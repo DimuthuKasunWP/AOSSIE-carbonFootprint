@@ -1,0 +1,30 @@
+span.carbon{
+  color: green;
+}
+/* Styling for svg question mark icon */
+#quest_mark_icon {
+    color:#212121;
+    position: relative;
+    height: 14px;
+    width: 14px;
+    top: 0;
+    margin-left: 5px;
+    vertical-align: sub;
+    fill: currentColor;
+}
+
+/* Emission output container div */
+#carbon-footprint-label {
+    padding: 5px 10px 0px 10px;
+    color:#212121 !important;
+}
+
+a#carbon{
+    color:#424242 !important;
+}
+a#carbon:hover{
+    text-decoration:none !important;
+}
+a:link{
+    text-decoration:none;
+}
